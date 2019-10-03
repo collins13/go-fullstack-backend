@@ -1,0 +1,14 @@
+{
+  "name": "subscription",
+  "version": "1.0.0",
+  "description": "the subscription module for rocket shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "rashid collins",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}

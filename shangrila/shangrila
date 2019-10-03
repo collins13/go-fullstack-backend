@@ -1,0 +1,53 @@
+ssh root@167.71.180.95
+roman2147
+cd ~/.ssh
+id_shangrila  id_shangrila.pub | pbcopy
+cat ~/.ssh/id_rsa.pub
+
+username:shangrila(superuser)
+
+
+//run
+usermod -aG admin
+
+usermod -aG admin codecontinue
+Now try running
+sudo su codecontinue
+cd
+sudo su root
+ssh -i ~/.ssh/id_codecontinueserver codecontinue@204.48.20.189
+
+
+//admi login
+ssh -i ~/.ssh/id_shangrila shangrila@167.71.180.95
+
+//db
+mysql -u root -p
+
+//github connection
+ssh-keygen -t rsa -b 4096 -C
+ 
+ 
+ 
+ //github
+ 
+ cd html
+ll
+
+//changing
+cp .env.example .env
+
+
+//nginz config
+cd
+cd /etc/nginx
+ll
+
+
+//permision
+  cd /var/www/html
+          sudo chmod -R 777 storage
+          
+          
+          
+          //after changes in github
